@@ -2,8 +2,10 @@ title: Albert Raphael # your name (or website title) here
 logo: "/images/biometric%20pass.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> if you don't need line break)
  <br><br>
+ 
  <a href="https://www.linkedin.com/in/albert-raphael-assimagbe-571b27155/">View My LinkedIn Profile</a> 
- [Sales Trends and Patterns: An Exploratory Data Analysis](http://jovian.com/albertraphael96/zerotopandas-course-project)
+
+ <br><br>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
