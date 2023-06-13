@@ -7,7 +7,7 @@
 Analyzed sales data 2015-2016  using Python and Pandas to gain insights into the trends and patterns of sales over time. The sales dataset contains information on transactions, including the products sold, their cost and revenue, and the volume of products sold. It also includes customer age, gender, and location, offering insights into purchasing behavior across different demographic groups.
 In performing this analysis, I used Python and the Pandas library, which provides powerful tools for data manipulation and analysis. I also use Matplotlib and Seaborn for data visualization.
 
-<img src="images/customer%20Gernder.png?raw=true"/>
+<img src="images/Sales-Analysis-1.jpg"/>
 
 ---
 
