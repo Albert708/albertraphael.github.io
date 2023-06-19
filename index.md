@@ -13,7 +13,7 @@ In performing this analysis, I used Python and the Pandas library, which provide
 
 [An Analysis On World Energy Consumption](https://jovian.com/albertraphael96/world-energy-consumption)
 
-Analyze world energy consumption data from 1900 to 2019 using Python and Pandas. Explore trends, patterns, and correlations between GDP and energy consumption. Explain how companies like Danfoss GmbH can develop sustainable energy solutions.I used Python and the Pandas library, which provides powerful tools for data manipulation and analysis. I also use Matplotlib and Seaborn for data visualization.
+Analyze world energy consumption data from 1970 to 2020 using Python and Pandas. Explore trends, patterns, and correlations between GDP and energy consumption. I also use Matplotlib and Seaborn for data visualization. Explain how companies can develop sustainable energy solutions.
 
 <img src="images/energy%20consumption%20by%20countries.png?raw=true"/>
 
